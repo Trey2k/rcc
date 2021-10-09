@@ -1,0 +1,6 @@
+{
+    "Commands": [
+        "go build -o rcc"
+    ],
+    "Output": "rcc"
+}

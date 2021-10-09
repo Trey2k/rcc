@@ -1,0 +1,6 @@
+{
+    "Commands": [
+        "gcc main.c -o test.a"
+    ],
+    "Output": "test.a"
+}

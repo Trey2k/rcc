@@ -1,0 +1,6 @@
+{
+    "Commands": [
+        "go build -o test.a"
+    ],
+    "Output": "test.a"
+}

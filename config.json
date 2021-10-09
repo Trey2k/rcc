@@ -1,0 +1,5 @@
+{
+ "RCCServerIP": "weaselrp.com",
+ "RCCServerPort": "8080",
+ "RCCServerAuthToken": "superSecret"
+}
